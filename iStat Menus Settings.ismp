@@ -50,9 +50,9 @@
 		<key>CPU_MenubarSingleHistoryGraph</key>
 		<integer>0</integer>
 		<key>CombinedDropdownDisplayMode</key>
-		<string>1,2,3,6</string>
+		<string>5,1,2,3,6</string>
 		<key>CombinedMenubarDisplayMode</key>
-		<string>1,2,3,6</string>
+		<string>5,1,2,3,6</string>
 		<key>Diagnostics_Enabled</key>
 		<integer>0</integer>
 		<key>Disks_DropdownCombineActivity</key>
@@ -108,7 +108,7 @@
 		<key>Network_ShowIPV6</key>
 		<integer>1</integer>
 		<key>Sensors_MenubarMode</key>
-		<string>2,3,100,0</string>
+		<string>0</string>
 		<key>Sensors_TemperatureMode</key>
 		<integer>0</integer>
 		<key>Time_CalendarEnabled</key>

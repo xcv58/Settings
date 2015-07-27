@@ -1,1 +1,893 @@
-{"*":{"_enabled":false,"_rules":{}},"blog.bintray.com":{"_enabled":true,"_rules":{"div.entry-content":{"font-size":"24px","line-height":"1.5"}}},"chriswrightdesign.com":{"_enabled":true,"_rules":{"header.header.js-header.header-fixed.is-revealed":{"display":"none"}}},"code.visualstudio.com":{"_enabled":true,"_rules":{"div.col-sm-9.col-md-8":{"font-size":"32px"},"nav.affix-top":{"font-size":"18px"}}},"confluence.jetbrains.com":{"_enabled":true,"_rules":{"div.code.panel":{"font-size":"24px"},"div.line.number1.index0.alt2":{"font-size":"32px"},"div.wiki-content h3":{"font-size":"36px","line-height":"1.5"},"div.wiki-content p":{"font-size":"32px","line-height":"1.5"},"div.wiki-content ul li":{"font-size":"32px","line-height":"1.5"},"span.plugin_pagetree_children_span a":{"font-size":"23px"}}},"developer.android.com":{"_enabled":true,"_rules":{"#jd-header":{"font-size":"24px","line-height":"1.5"},"div.col-4":{"font-size":"28px","line-height":"1.5"},"div.jd-descr":{"font-size":"32px","line-height":"1.5"},"div.jd-descr code":{"font-size":"32px","line-height":"1.5"},"div.jd-descr ol":{"font-size":"32px","line-height":"1.5"},"div.jd-descr p":{"font-size":"32px","line-height":"1.5"},"div.jd-descr ul li":{"font-size":"32px","line-height":"1.5"},"div.jd-descrdiv code a":{"font-size":"32px"},"div.jd-tagdata.jd-tagdescr p":{"font-size":"32px","line-height":"1.5"},"div.sum-details-links":{"font-size":"24px","line-height":"1.5"},"h5.jd-tagtitle":{"font-size":"32px","line-height":"1.5"},"li code a":{"font-size":"32px","line-height":"1.5"},"li.api":{"font-size":"24px","line-height":"1.5"},"li.api.apilevel-1":{"font-size":"24px","line-height":"1.5"},"ol li code":{"font-size":"32px","line-height":"1.5"},"p code":{"font-size":"32px","line-height":"1.5"},"pre.prettyprint":{"font-size":"32px"},"span.normal":{"font-size":"32px","line-height":"1.5"},"span.sympad":{"font-size":"32px","line-height":"1.5"},"tbody tr":{"font-size":"32px","line-height":"1.5"},"td code a":{"font-size":"32px","line-height":"1.5"},"ul.nolist li":{"font-size":"32px","line-height":"1.5"}}},"docs.oracle.com":{"_enabled":true,"_rules":{"div.block":{"font-size":"32px"},"div.block p":{"font-size":"32px"},"div.subNav":{"font-size":"32px"},"div.subTitle":{"font-size":"32px"},"li.blockList":{"font-size":"32px"},"pre":{"font-size":"32px"},"td.colFirst":{"font-size":"32px"},"td.colLast":{"font-size":"32px"},"td.colOne code":{"font-size":"32px"},"ul.inheritance":{"font-size":"32px"}}},"en.wikipedia.org":{"_enabled":true,"_rules":{"div.mw-body-content":{"font-size":"32px"},"h1.firstHeading":{"font-size":"48px"}}},"haitao.smzdm.com":{"_enabled":true,"_rules":{".leftWrap":{"width":"100%"},".listRight":{"font-size":"24px","width":"80%"},".lrInfo":{"height":"100px","line-height":"1.1"},"div.news_content":{"font-size":"32px","line-height":"1.5"},"div.news_content p":{"line-height":"1.5"}}},"leetcode.com":{"_enabled":true,"_rules":{"#chat-link":{"display":"none"},"a.btn.btn-link.btn-lg":{"display":"none"}}},"mail.google.com":{"_enabled":true,"_rules":{"div div p":{"font-size":"24px","line-height":"1.5"},"div ol li":{"font-size":"24px","line-height":"1.5"},"div.a3s div div":{"font-size":"24px","line-height":"1.5"},"div.gs":{"font-size":"32px","line-height":"1.5"}}},"mjolnir.cse.buffalo.edu":{"_enabled":true,"_rules":{".body_container":{"width":"64%"},".content_container":{"width":"96%"},".logged_in_as_header":{"width":"100%"},".menu_link_area":{"height":"48px","margin":"auto","width":"100%"},".site":{"max-width":"100%"},".site-content .entry-header, .site-content .entry-content, .site-content .entry-summary, .site-content .entry-meta, .page-content":{"max-width":"64%"},".site-header":{"max-width":"100%"},"a.menu_link":{"font-size":"24px"},"body":{"font-size":"32px"},"div.content_container.body_background center":{"font-size":"32px"},"div.content_container.body_background center font":{"font-size":"28px"},"div.content_container.body_background div":{"font-size":"24px","line-height":"1.5"},"div.content_container.body_background p i":{"line-height":"1.4"},"div.content_container.body_background ul li":{"padding-bottom":"8px","padding-top":"8px"},"div.entry-content p a":{"font-size":"24px"},"div.entry-content pre":{"font-size":"32px"},"div.logged_in_as_header":{"font-size":"18px"},"div.section_title":{"font-size":"48px"},"span.action_link a":{"font-size":"28px"},"tbody tr td":{"line-height":"1.5"},"ul li tt":{"font-size":"32px"}}},"odin.cse.buffalo.edu":{"_enabled":true,"_rules":{"body":{"font-size":"32px","width":"64%"},"div.libver p":{"font-size":"18px"},"div.navfooter":{"font-size":"32px","width":"100%"},"div.navheader":{"width":"100%"},"tbody tr td":{"font-size":"18px"},"tbody tr th":{"font-size":"32px"},"tr td a":{"font-size":"24px"}}},"piazza.com":{"_enabled":true,"_rules":{"#page_center":{"left":"450px"},".page_feed":{"font-size":"32px","line-height":"1.5","width":"450px"},".page_feed .feed_item .content":{"margin-left":"16px","margin-right":"0"},".page_feed .feed_item .content .snippet":{"font-size":"18px","line-height":"1.5em","max-height":"128px"},".page_feed .feed_item .content .title":{"font-size":"18px","line-height":"1.5"},".post_region_text":{"font-size":"32px"},"div.main_panel.scrollable":{"font-size":"32px"},"div.post_region_text ul li":{"line-height":"1.5"},"div.timestamp":{"font-size":"14px"},"element.style":{"left":"550px"}}},"program-think.blogspot.com":{"_enabled":true,"_rules":{"div.blog-posts.hfeed":{"font-size":"32px","line-height":"1.5"},"div.comment-text":{"font-size":"32px"},"div.sidebar.section":{"font-size":"32px"}}},"stackoverflow.com":{"_enabled":true,"_rules":{"#answers":{"width":"100%"},"#answers-header":{"width":"100%"},"#content":{"width":"80%"},"#header":{"width":"80%"},"#mainbar":{"width":"78%"},"#sidebar":{"max-widht":"300px","min-width":"220px","width":"21%"},".answer":{"width":"99%"},".comments":{"width":"78%"},".fw":{"width":"99%"},".post-text":{"width":"78%"},"code":{"font-size":"28px","line-height":"1.5em"},"div.post-text ol li":{"font-size":"32px","line-height":"1.5"},"div.post-text p":{"font-size":"32px","line-height":"1.5"},"div.post-text p code":{"font-size":"32px","line-height":"1.5"},"div.post-text pre":{"font-size":"24px","line-height":"1.5"},"td.comment-text":{"font-size":"32px","line-height":"1.5"}}},"trello.com":{"_enabled":true,"_rules":{".list":{"flex-basis":"500px","font-size":"32px","line-height":"1.2em"},".list-card":{"max-width":"500px"}}},"twitter.com":{"_enabled":true,"_rules":{".TweetTextSize":{"font-size":"36px","line-height":"1.5"},".content-main":{"font-size":"32px","line-height":"1.5","width":"100%"},"div.Trends.module.trends":{"display":"none"}}},"v2ex.com":{"_enabled":true,"_rules":{".content":{"width":"70%"},"a.count_livid":{"font-size":"18px","line-height":"1.5em","max-width":"3em","width":"1.8em"},"a.dark":{"font-size":"18px"},"a.node":{"font-size":"24px","line-height":"1.2"},"a.tab":{"font-size":"32px"},"a.tab_current":{"font-size":"32px","line-height":"1.5"},"div.cell":{"font-size":"24px","line-height":"1.5"},"div.cell.item":{"border-bottom-width":"1px","border-color":"#000000","border-left-width":"0","border-right-width":"0","border-style":"groove","border-top-width":"1px","margin-top":"-1px","padding-bottom":"18px","padding-top":"19px"},"div.fr":{"font-size":"18px"},"div.highlight pre":{"font-size":"32px"},"div.inner":{"font-size":"32px"},"div.payload":{"font-size":"18px","line-height":"1.5em"},"div.reply_content":{"font-size":"32px"},"div.topic_content":{"font-size":"32px","padding-left":"8px"},"small.gray":{"font-size":"18px"},"span.fade.small":{"font-size":"18px"},"span.item_title a":{"font-size":"32px","line-height":"1.5em","padding-bottom":"4px","padding-top":"4px"},"span.no":{"font-size":"18px","line-height":"1.5"},"span.small.fade":{"font-size":"24px"},"tbody tr td":{"padding-left":"4px","padding-right":"4px"}}},"velocity.meteor.com":{"_enabled":true,"_rules":{"div.col-md-9 p":{"font-size":"24px"}}},"www.amazon.com":{"_enabled":true,"_rules":{"div.reviewText":{"font-size":"24px"},"span.a-size-base.review-text":{"font-size":"24px","line-height":"1.5"}}},"www.compiletimeerror.com":{"_enabled":true,"_rules":{"div.sidebartop.section":{"display":"none"}}},"www.google.com":{"_enabled":true,"_rules":{".g, .s, #brs":{"font-size":"24px","line-height":"1.8","width":"256%"},"h3":{"font-size":"32px"},"li.g.mnr-c.rhsvw.kno-kp.g-blk":{"display":"none"}}},"www.hammerspoon.org":{"_enabled":true,"_rules":{"#isVisible":{"font-size":"32px"},"div.col-md-12":{"font-size":"32px"},"div.highlight pre":{"font-size":"24px"}}},"www.jetbrains.com":{"_enabled":true,"_rules":{"article.article":{"font-size":"32px","line-height":"1.5"},"section.procedure-steps ol":{"font-size":"32px","line-height":"1.5"}}},"www.lua.org":{"_enabled":true,"_rules":{" html body":{"font-size":"32px"},"p.warning":{"font-size":"32px"},"td a font":{"font-size":"32px"},"tr td a":{"font-size":"24px"},"tr td small":{"font-size":"16px"}}},"www.macrumors.com":{"_enabled":true,"_rules":{"div.content":{"font-size":"18px"},"div.content a":{"font-size":"18px"}}},"www.meteortesting.com":{"_enabled":true,"_rules":{".content":{"font-size":"24px"}}},"www.vogella.com":{"_enabled":true,"_rules":{"div.article":{"font-size":"32px"},"div.section p":{"font-size":"32px","line-height":"1.5"},"h2.title":{"font-size":"36px"},"h3.title":{"font-size":"33px"}}},"www.weibo.com":{"_enabled":true,"_rules":{"#plc_main":{"width":"89%"},"#v6_pl_content_biztips div":{"display":"none"},"#v6_pl_rightmod_recominfo":{"display":"none"},".WB_feed_handle":{"font-size":"22px","line-height":"1.5"},".WB_frame_a":{"width":"89%"},".WB_frame_c":{"width":"89%"},".WB_main_c":{"width":"100%"},".WB_main_l":{"border-style":"none"},"a.S_txt2":{"letter-spacing":"1.5"},"a.W_f14.W_fb.S_txt1":{"font-size":"32px","line-height":"1.5"},"div.WBA_content div":{"font-size":"32px"},"div.WBA_content p span":{"font-size":"32px","line-height":"1.5"},"div.WB_ad_tm2015.WB_ad_tm2015_v2":{"display":"none"},"div.WB_feed_detail.clearfix":{"font-size":"24px","line-height":"1.5"},"div.WB_frame":{"width":"90%"},"div.WB_from.S_txt2":{"line-height":"2em"},"div.WB_info":{"font-size":"32px"},"div.WB_main_r":{"display":"none"},"div.WB_text":{"font-size":"32px","line-height":"1.5"},"div.W_person_info":{"display":"none"},"ul.WB_cards.clearfix":{"display":"none"}}},"www.zhihu.com":{"_enabled":true,"_rules":{".zg-wrap":{"width":"64%"},".zm-comment-box":{"max-width":"100%"},".zu-main-content-inner.with-indention-votebar":{"margin-left":"0"},"a.like.zm-comment-op-link":{"font-size":"24px"},"a.reply.zm-comment-op-link":{"font-size":"24px"},"a.zu-edit-button":{"font-size":"24px"},"div.goog-inline-block.goog-menu-button-caption":{"font-size":"24px"},"div.zh-summary.summary.clearfix":{"font-size":"24px"},"div.zm-comment-ft":{"font-size":"24px"},"div.zm-editable-content":{"font-size":"32px"},"div.zm-editable-content blockquote":{"font-size":"32px","line-height":"1.5"},"div.zm-editable-content.clearfix":{"font-size":"32px"},"div.zm-item-comment":{"font-size":"24px","width":"100%"},"div.zm-item-vote-info":{"font-size":"18px"},"div.zm-meta-panel":{"font-size":"24px"},"h3.zm-item-answer-author-wrap":{"font-size":"24px"}}},"www.zybuluo.com":{"_enabled":true,"_rules":{"div.wmd-preview.wmd-preview-full-reader":{"line-height":"1.5"},"div.wmd-preview.wmd-preview-full-reader p":{"font-size":"36px","line-height":"1.5"}}},"xcv58.com":{"_enabled":true,"_rules":{"article.notepad-index-post.post.row.fadeInDown":{"line-height":"1.5"}}},"zh.wikipedia.org":{"_enabled":true,"_rules":{"div.mw-body-content":{"font-size":"32px"},"h1.firstHeading":{"font-size":"48px"}}}}
+{
+  "zh.wikipedia.org": {
+    "_rules": {
+      "h1.firstHeading": {
+        "font-size": "48px"
+      },
+      "div.mw-body-content": {
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "xcv58.com": {
+    "_rules": {
+      "article.notepad-index-post.post.row.fadeInDown": {
+        "line-height": "1.5"
+      }
+    },
+    "_enabled": true
+  },
+  "www.zybuluo.com": {
+    "_rules": {
+      "div.wmd-preview.wmd-preview-full-reader p": {
+        "line-height": "1.5",
+        "font-size": "36px"
+      },
+      "div.wmd-preview.wmd-preview-full-reader": {
+        "line-height": "1.5"
+      }
+    },
+    "_enabled": true
+  },
+  "www.zhihu.com": {
+    "_rules": {
+      "h3.zm-item-answer-author-wrap": {
+        "font-size": "24px"
+      },
+      "div.zm-meta-panel": {
+        "font-size": "24px"
+      },
+      "div.zm-item-vote-info": {
+        "font-size": "18px"
+      },
+      "div.zm-item-comment": {
+        "width": "100%",
+        "font-size": "24px"
+      },
+      "div.zm-editable-content.clearfix": {
+        "font-size": "32px"
+      },
+      "div.zm-editable-content blockquote": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.zm-editable-content": {
+        "font-size": "32px"
+      },
+      "div.zm-comment-ft": {
+        "font-size": "24px"
+      },
+      "div.zh-summary.summary.clearfix": {
+        "font-size": "24px"
+      },
+      "div.goog-inline-block.goog-menu-button-caption": {
+        "font-size": "24px"
+      },
+      "a.zu-edit-button": {
+        "font-size": "24px"
+      },
+      "a.reply.zm-comment-op-link": {
+        "font-size": "24px"
+      },
+      "a.like.zm-comment-op-link": {
+        "font-size": "24px"
+      },
+      ".zu-main-content-inner.with-indention-votebar": {
+        "margin-left": "0"
+      },
+      ".zm-comment-box": {
+        "max-width": "100%"
+      },
+      ".zg-wrap": {
+        "width": "64%"
+      }
+    },
+    "_enabled": true
+  },
+  "www.weibo.com": {
+    "_rules": {
+      "ul.WB_cards.clearfix": {
+        "display": "none"
+      },
+      "div.W_person_info": {
+        "display": "none"
+      },
+      "div.WB_text": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.WB_main_r": {
+        "display": "none"
+      },
+      "div.WB_info": {
+        "font-size": "32px"
+      },
+      "div.WB_from.S_txt2": {
+        "line-height": "2em"
+      },
+      "div.WB_frame": {
+        "width": "90%"
+      },
+      "div.WB_feed_detail.clearfix": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "div.WB_ad_tm2015.WB_ad_tm2015_v2": {
+        "display": "none"
+      },
+      "div.WBA_content p span": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.WBA_content div": {
+        "font-size": "32px"
+      },
+      "a.W_f14.W_fb.S_txt1": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "a.S_txt2": {
+        "letter-spacing": "1.5"
+      },
+      ".WB_main_l": {
+        "border-style": "none"
+      },
+      ".WB_main_c": {
+        "width": "100%"
+      },
+      ".WB_frame_c": {
+        "width": "89%"
+      },
+      ".WB_frame_a": {
+        "width": "89%"
+      },
+      ".WB_feed_handle": {
+        "line-height": "1.5",
+        "font-size": "22px"
+      },
+      "#v6_pl_rightmod_recominfo": {
+        "display": "none"
+      },
+      "#v6_pl_content_biztips div": {
+        "display": "none"
+      },
+      "#plc_main": {
+        "width": "89%"
+      }
+    },
+    "_enabled": true
+  },
+  "www.vogella.com": {
+    "_rules": {
+      "h3.title": {
+        "font-size": "33px"
+      },
+      "h2.title": {
+        "font-size": "36px"
+      },
+      "div.section p": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.article": {
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "www.meteortesting.com": {
+    "_rules": {
+      ".content": {
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "www.macrumors.com": {
+    "_rules": {
+      "div.content a": {
+        "font-size": "18px"
+      },
+      "div.content": {
+        "font-size": "18px"
+      }
+    },
+    "_enabled": true
+  },
+  "www.lua.org": {
+    "_rules": {
+      "tr td small": {
+        "font-size": "16px"
+      },
+      "tr td a": {
+        "font-size": "24px"
+      },
+      "td a font": {
+        "font-size": "32px"
+      },
+      "p.warning": {
+        "font-size": "32px"
+      },
+      " html body": {
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "www.jetbrains.com": {
+    "_rules": {
+      "section.procedure-steps ol": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "article.article": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "www.hammerspoon.org": {
+    "_rules": {
+      "div.highlight pre": {
+        "font-size": "24px"
+      },
+      "div.col-md-12": {
+        "font-size": "32px"
+      },
+      "#isVisible": {
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "www.google.com": {
+    "_rules": {
+      "li.g.mnr-c.rhsvw.kno-kp.g-blk": {
+        "display": "none"
+      },
+      "h3": {
+        "font-size": "32px"
+      },
+      ".g, .s, #brs": {
+        "width": "256%",
+        "line-height": "1.8",
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "www.compiletimeerror.com": {
+    "_rules": {
+      "div.sidebartop.section": {
+        "display": "none"
+      }
+    },
+    "_enabled": true
+  },
+  "www.amazon.com": {
+    "_rules": {
+      "span.a-size-base.review-text": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "div.reviewText": {
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "velocity.meteor.com": {
+    "_rules": {
+      "div.col-md-9 p": {
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "v2ex.com": {
+    "_rules": {
+      "tbody tr td": {
+        "padding-right": "4px",
+        "padding-left": "4px"
+      },
+      "span.small.fade": {
+        "font-size": "24px"
+      },
+      "span.no": {
+        "line-height": "1.5",
+        "font-size": "18px"
+      },
+      "span.item_title a": {
+        "padding-top": "4px",
+        "padding-bottom": "4px",
+        "line-height": "1.5em",
+        "font-size": "32px"
+      },
+      "span.fade.small": {
+        "font-size": "18px"
+      },
+      "small.gray": {
+        "font-size": "18px"
+      },
+      "div.topic_content": {
+        "padding-left": "8px",
+        "font-size": "32px"
+      },
+      "div.reply_content": {
+        "font-size": "32px"
+      },
+      "div.payload": {
+        "line-height": "1.5em",
+        "font-size": "18px"
+      },
+      "div.inner": {
+        "font-size": "32px"
+      },
+      "div.highlight pre": {
+        "font-size": "32px"
+      },
+      "div.fr": {
+        "font-size": "18px"
+      },
+      "div.cell.item": {
+        "padding-top": "19px",
+        "padding-bottom": "18px",
+        "margin-top": "-1px",
+        "border-top-width": "1px",
+        "border-style": "groove",
+        "border-right-width": "0",
+        "border-left-width": "0",
+        "border-color": "#000000",
+        "border-bottom-width": "1px"
+      },
+      "div.cell": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "a.tab_current": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "a.tab": {
+        "font-size": "32px"
+      },
+      "a.node": {
+        "line-height": "1.2",
+        "font-size": "24px"
+      },
+      "a.dark": {
+        "font-size": "18px"
+      },
+      "a.count_livid": {
+        "width": "1.8em",
+        "max-width": "3em",
+        "line-height": "1.5em",
+        "font-size": "18px"
+      },
+      ".content": {
+        "width": "70%"
+      }
+    },
+    "_enabled": true
+  },
+  "twitter.com": {
+    "_rules": {
+      "div.Trends.module.trends": {
+        "display": "none"
+      },
+      ".content-main": {
+        "width": "100%",
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      ".TweetTextSize": {
+        "line-height": "1.5",
+        "font-size": "36px"
+      }
+    },
+    "_enabled": true
+  },
+  "trello.com": {
+    "_rules": {
+      ".list-card": {
+        "max-width": "500px"
+      },
+      ".list": {
+        "line-height": "1.2em",
+        "font-size": "32px",
+        "flex-basis": "500px"
+      }
+    },
+    "_enabled": true
+  },
+  "stackoverflow.com": {
+    "_rules": {
+      "td.comment-text": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.post-text pre": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "div.post-text p code": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.post-text p": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.post-text ol li": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "code": {
+        "line-height": "1.5em",
+        "font-size": "28px"
+      },
+      ".post-text": {
+        "width": "78%"
+      },
+      ".fw": {
+        "width": "99%"
+      },
+      ".comments": {
+        "width": "78%"
+      },
+      ".answer": {
+        "width": "99%"
+      },
+      "#sidebar": {
+        "width": "21%",
+        "min-width": "220px",
+        "max-widht": "300px"
+      },
+      "#mainbar": {
+        "width": "78%"
+      },
+      "#header": {
+        "width": "80%"
+      },
+      "#content": {
+        "width": "80%"
+      },
+      "#answers-header": {
+        "width": "100%"
+      },
+      "#answers": {
+        "width": "100%"
+      }
+    },
+    "_enabled": true
+  },
+  "program-think.blogspot.com": {
+    "_rules": {
+      "div.sidebar.section": {
+        "font-size": "32px"
+      },
+      "div.comment-text": {
+        "font-size": "32px"
+      },
+      "div.blog-posts.hfeed": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "piazza.com": {
+    "_rules": {
+      "element.style": {
+        "left": "550px"
+      },
+      "div.timestamp": {
+        "font-size": "14px"
+      },
+      "div.post_region_text ul li": {
+        "line-height": "1.5"
+      },
+      "div.main_panel.scrollable": {
+        "font-size": "32px"
+      },
+      ".post_region_text": {
+        "font-size": "32px"
+      },
+      ".page_feed .feed_item .content .title": {
+        "line-height": "1.5",
+        "font-size": "18px"
+      },
+      ".page_feed .feed_item .content .snippet": {
+        "max-height": "128px",
+        "line-height": "1.5em",
+        "font-size": "18px"
+      },
+      ".page_feed .feed_item .content": {
+        "margin-right": "0",
+        "margin-left": "16px"
+      },
+      ".page_feed": {
+        "width": "450px",
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "#page_center": {
+        "left": "450px"
+      }
+    },
+    "_enabled": true
+  },
+  "odin.cse.buffalo.edu": {
+    "_rules": {
+      "tr td a": {
+        "font-size": "24px"
+      },
+      "tbody tr th": {
+        "font-size": "32px"
+      },
+      "tbody tr td": {
+        "font-size": "18px"
+      },
+      "div.navheader": {
+        "width": "100%"
+      },
+      "div.navfooter": {
+        "width": "100%",
+        "font-size": "32px"
+      },
+      "div.libver p": {
+        "font-size": "18px"
+      },
+      "body": {
+        "width": "64%",
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "mjolnir.cse.buffalo.edu": {
+    "_rules": {
+      "ul li tt": {
+        "font-size": "32px"
+      },
+      "tbody tr td": {
+        "line-height": "1.5"
+      },
+      "span.action_link a": {
+        "font-size": "28px"
+      },
+      "div.section_title": {
+        "font-size": "48px"
+      },
+      "div.logged_in_as_header": {
+        "font-size": "18px"
+      },
+      "div.entry-content pre": {
+        "font-size": "32px"
+      },
+      "div.entry-content p a": {
+        "font-size": "24px"
+      },
+      "div.content_container.body_background ul li": {
+        "padding-top": "8px",
+        "padding-bottom": "8px"
+      },
+      "div.content_container.body_background p i": {
+        "line-height": "1.4"
+      },
+      "div.content_container.body_background div": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "div.content_container.body_background center font": {
+        "font-size": "28px"
+      },
+      "div.content_container.body_background center": {
+        "font-size": "32px"
+      },
+      "body": {
+        "font-size": "32px"
+      },
+      "a.menu_link": {
+        "font-size": "24px"
+      },
+      ".site-header": {
+        "max-width": "100%"
+      },
+      ".site-content .entry-header, .site-content .entry-content, .site-content .entry-summary, .site-content .entry-meta, .page-content": {
+        "max-width": "64%"
+      },
+      ".site": {
+        "max-width": "100%"
+      },
+      ".menu_link_area": {
+        "width": "100%",
+        "margin": "auto",
+        "height": "48px"
+      },
+      ".logged_in_as_header": {
+        "width": "100%"
+      },
+      ".content_container": {
+        "width": "96%"
+      },
+      ".body_container": {
+        "width": "64%"
+      }
+    },
+    "_enabled": true
+  },
+  "mail.google.com": {
+    "_rules": {
+      "div.gs": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.a3s div div": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "div ol li": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "div div p": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "leetcode.com": {
+    "_rules": {
+      "a.btn.btn-link.btn-lg": {
+        "display": "none"
+      },
+      "#chat-link": {
+        "display": "none"
+      }
+    },
+    "_enabled": true
+  },
+  "jasmine.github.io": {
+    "_rules": {
+      "td.docs, th.docs": {
+        "max-width": "1000px"
+      },
+      "td.docs p code": {
+        "font-size": "1em"
+      },
+      "td.docs p": {
+        "line-height": "1.2em",
+        "font-size": "2em"
+      },
+      "td.docs h2 code": {
+        "font-size": "1em"
+      },
+      "div.highlight pre": {
+        "font-size": "1em"
+      }
+    },
+    "_enabled": true
+  },
+  "haitao.smzdm.com": {
+    "_rules": {
+      "div.news_content p": {
+        "line-height": "1.5"
+      },
+      "div.news_content": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      ".lrInfo": {
+        "line-height": "1.1",
+        "height": "100px"
+      },
+      ".listRight": {
+        "width": "80%",
+        "font-size": "24px"
+      },
+      ".leftWrap": {
+        "width": "100%"
+      }
+    },
+    "_enabled": true
+  },
+  "en.wikipedia.org": {
+    "_rules": {
+      "h1.firstHeading": {
+        "font-size": "48px"
+      },
+      "div.mw-body-content": {
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "docs.oracle.com": {
+    "_rules": {
+      "ul.inheritance": {
+        "font-size": "32px"
+      },
+      "td.colOne code": {
+        "font-size": "32px"
+      },
+      "td.colLast": {
+        "font-size": "32px"
+      },
+      "td.colFirst": {
+        "font-size": "32px"
+      },
+      "pre": {
+        "font-size": "32px"
+      },
+      "li.blockList": {
+        "font-size": "32px"
+      },
+      "div.subTitle": {
+        "font-size": "32px"
+      },
+      "div.subNav": {
+        "font-size": "32px"
+      },
+      "div.block p": {
+        "font-size": "32px"
+      },
+      "div.block": {
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "developer.android.com": {
+    "_rules": {
+      "ul.nolist li": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "td code a": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "tbody tr": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "span.sympad": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "span.normal": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "pre.prettyprint": {
+        "font-size": "32px"
+      },
+      "p code": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "ol li code": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "li.api.apilevel-1": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "li.api": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "li code a": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "h5.jd-tagtitle": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.sum-details-links": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      },
+      "div.jd-tagdata.jd-tagdescr p": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.jd-descrdiv code a": {
+        "font-size": "32px"
+      },
+      "div.jd-descr ul li": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.jd-descr p": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.jd-descr ol": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.jd-descr code": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.jd-descr": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.col-4": {
+        "line-height": "1.5",
+        "font-size": "28px"
+      },
+      "#jd-header": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "confluence.jetbrains.com": {
+    "_rules": {
+      "span.plugin_pagetree_children_span a": {
+        "font-size": "23px"
+      },
+      "div.wiki-content ul li": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.wiki-content p": {
+        "line-height": "1.5",
+        "font-size": "32px"
+      },
+      "div.wiki-content h3": {
+        "line-height": "1.5",
+        "font-size": "36px"
+      },
+      "div.line.number1.index0.alt2": {
+        "font-size": "32px"
+      },
+      "div.code.panel": {
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "code.visualstudio.com": {
+    "_rules": {
+      "nav.affix-top": {
+        "font-size": "18px"
+      },
+      "div.col-sm-9.col-md-8": {
+        "font-size": "32px"
+      }
+    },
+    "_enabled": true
+  },
+  "chriswrightdesign.com": {
+    "_rules": {
+      "header.header.js-header.header-fixed.is-revealed": {
+        "display": "none"
+      }
+    },
+    "_enabled": true
+  },
+  "blog.bintray.com": {
+    "_rules": {
+      "div.entry-content": {
+        "line-height": "1.5",
+        "font-size": "24px"
+      }
+    },
+    "_enabled": true
+  },
+  "*": {
+    "_rules": null,
+    "_enabled": false
+  }
+}

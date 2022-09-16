@@ -44,7 +44,7 @@
       "int" : 0
     },
     "disabledApps" : {
-
+      "string" : "[]"
     },
     "footprintAlpha" : {
       "float" : 0.30000001192092896
@@ -70,6 +70,9 @@
     "ignoredSnapAreas" : {
       "int" : 0
     },
+    "landscapeSnapAreas" : {
+
+    },
     "launchOnLogin" : {
       "bool" : true
     },
@@ -91,6 +94,9 @@
     "obtainWindowOnClick" : {
       "int" : 0
     },
+    "portraitSnapAreas" : {
+
+    },
     "relaunchOpensMenu" : {
       "bool" : false
     },
@@ -106,6 +112,9 @@
     "screenEdgeGapRight" : {
       "float" : 0
     },
+    "screenEdgeGapsOnMainScreenOnly" : {
+      "bool" : false
+    },
     "screenEdgeGapTop" : {
       "float" : 0
     },
@@ -113,6 +122,9 @@
       "float" : 145
     },
     "showAllActionsInMenu" : {
+      "int" : 0
+    },
+    "sixthsSnapArea" : {
       "int" : 0
     },
     "sizeOffset" : {
@@ -139,6 +151,9 @@
     "specifiedWidth" : {
       "float" : 1680
     },
+    "stageSize" : {
+      "float" : 190
+    },
     "subsequentExecutionMode" : {
       "int" : 1
     },
@@ -146,7 +161,7 @@
       "bool" : false
     },
     "todo" : {
-      "int" : 0
+      "int" : 2
     },
     "todoApplication" : {
 
@@ -172,24 +187,20 @@
       "keyCode" : 38,
       "modifierFlags" : 1441792
     },
-    "bottomLeft" : {
-      "keyCode" : 38,
-      "modifierFlags" : 786432
-    },
-    "bottomRight" : {
-      "keyCode" : 40,
-      "modifierFlags" : 786432
-    },
     "center" : {
+      "keyCode" : 8,
+      "modifierFlags" : 1441792
+    },
+    "centerHalf" : {
       "keyCode" : 5,
       "modifierFlags" : 1441792
     },
     "centerThird" : {
-      "keyCode" : 3,
+      "keyCode" : 2,
       "modifierFlags" : 786432
     },
     "firstThird" : {
-      "keyCode" : 2,
+      "keyCode" : 3,
       "modifierFlags" : 786432
     },
     "firstTwoThirds" : {
@@ -216,10 +227,6 @@
       "keyCode" : 3,
       "modifierFlags" : 1441792
     },
-    "maximizeHeight" : {
-      "keyCode" : 126,
-      "modifierFlags" : 917504
-    },
     "nextDisplay" : {
       "keyCode" : 45,
       "modifierFlags" : 1441792
@@ -229,7 +236,7 @@
       "modifierFlags" : 1441792
     },
     "restore" : {
-      "keyCode" : 15,
+      "keyCode" : 6,
       "modifierFlags" : 1441792
     },
     "rightHalf" : {
@@ -253,5 +260,5 @@
       "modifierFlags" : 1441792
     }
   },
-  "version" : "59"
+  "version" : "64"
 }

@@ -41,7 +41,7 @@
       "*mail.google.com*"
     ],
     "matchurl": "https://chat.openai.com/chat",
-    "currentWindow": true,
+    "currentWindow": false,
     "openurl": "https://chat.openai.com/chat"
   },
   {

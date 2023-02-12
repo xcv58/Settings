@@ -30,32 +30,19 @@
   },
   {
     "action": "gototab",
-    "activeInInputs": true,
-    "blacklist": "false",
-    "currentWindow": false,
-    "customName": "Jump to Google Meet",
-    "exported": false,
-    "key": "command+d",
-    "matchurl": "https://meet.google.com/*",
-    "open": false,
-    "openurl": "https://meet.google.com/landing?authuser=1",
-    "sites": "*mail.google.com*",
-    "sitesArray": [
-      "*mail.google.com*"
-    ]
-  },
-  {
-    "action": "gototabbytitle",
     "blacklist": false,
     "customName": "Standup Meeting Notes",
     "exported": false,
-    "key": "ctrl+n",
+    "key": "ctrl+l",
     "matchtitle": "Standup Meeting Notes*",
     "open": false,
     "sites": "*mail.google.com*",
     "sitesArray": [
       "*mail.google.com*"
-    ]
+    ],
+    "matchurl": "https://chat.openai.com/chat",
+    "currentWindow": true,
+    "openurl": "https://chat.openai.com/chat"
   },
   {
     "action": "gototab",

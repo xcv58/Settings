@@ -1,69 +1,88 @@
-[{
-  "action": "gototab",
-  "activeInInputs": true,
-  "blacklist": "false",
-  "customName": "JIRA",
-  "exported": true,
-  "key": "ctrl+j",
-  "matchurl": "https://jira.twitter.biz/secure/RapidBoard.jspa*",
-  "open": false,
-  "openurl": "https://jira.twitter.biz/secure/RapidBoard.jspa",
-  "sites": "*mail.google.com*",
-  "sitesArray": ["*mail.google.com*"]
-}, {
-  "action": "gototab",
-  "blacklist": false,
-  "customName": "Calendar",
-  "exported": true,
-  "key": "ctrl+c",
-  "matchurl": "https://calendar.google.com/*",
-  "open": false,
-  "openurl": "https://calendar.google.com/calendar/b/1/r",
-  "sites": "*mail.google.com*",
-  "sitesArray": ["*mail.google.com*"]
-}, {
-  "action": "gototab",
-  "activeInInputs": true,
-  "blacklist": "false",
-  "currentWindow": false,
-  "customName": "Jump to Google Meet",
-  "exported": true,
-  "key": "command+d",
-  "matchurl": "https://meet.google.com/*",
-  "open": false,
-  "openurl": "https://meet.google.com/landing?authuser=1",
-  "sites": "*mail.google.com*",
-  "sitesArray": ["*mail.google.com*"]
-}, {
-  "action": "gototabbytitle",
-  "blacklist": false,
-  "customName": "Standup Meeting Notes",
-  "exported": true,
-  "key": "ctrl+n",
-  "matchtitle": "Standup Meeting Notes*",
-  "open": false,
-  "sites": "*mail.google.com*",
-  "sitesArray": ["*mail.google.com*"]
-}, {
-  "action": "gototab",
-  "blacklist": false,
-  "customName": "Jump to Google Meet",
-  "exported": true,
-  "key": "ctrl+m",
-  "matchurl": "https://meet.google.com/*",
-  "open": false,
-  "openurl": "https://meet.google.com/landing?authuser=1",
-  "sites": "*mail.google.com*",
-  "sitesArray": ["*mail.google.com*"]
-}, {
-  "action": "gototab",
-  "blacklist": false,
-  "customName": "chrome://extensions/",
-  "exported": true,
-  "key": "ctrl+e",
-  "matchurl": "chrome://extensions/",
-  "open": false,
-  "openurl": "chrome://extensions/",
-  "sites": "*mail.google.com*",
-  "sitesArray": ["*mail.google.com*"]
-}]
+[
+  {
+    "action": "gototab",
+    "activeInInputs": true,
+    "blacklist": "false",
+    "customName": "JIRA",
+    "exported": false,
+    "key": "ctrl+j",
+    "matchurl": "https://jira.twitter.biz/secure/RapidBoard.jspa*",
+    "open": false,
+    "openurl": "https://jira.twitter.biz/secure/RapidBoard.jspa",
+    "sites": "*mail.google.com*",
+    "sitesArray": [
+      "*mail.google.com*"
+    ]
+  },
+  {
+    "action": "gototab",
+    "blacklist": false,
+    "customName": "Calendar",
+    "exported": false,
+    "key": "ctrl+c",
+    "matchurl": "https://calendar.google.com/*",
+    "open": false,
+    "openurl": "https://calendar.google.com/calendar/b/1/r",
+    "sites": "*mail.google.com*",
+    "sitesArray": [
+      "*mail.google.com*"
+    ]
+  },
+  {
+    "action": "gototab",
+    "activeInInputs": true,
+    "blacklist": "false",
+    "currentWindow": false,
+    "customName": "Jump to Google Meet",
+    "exported": false,
+    "key": "command+d",
+    "matchurl": "https://meet.google.com/*",
+    "open": false,
+    "openurl": "https://meet.google.com/landing?authuser=1",
+    "sites": "*mail.google.com*",
+    "sitesArray": [
+      "*mail.google.com*"
+    ]
+  },
+  {
+    "action": "gototabbytitle",
+    "blacklist": false,
+    "customName": "Standup Meeting Notes",
+    "exported": false,
+    "key": "ctrl+n",
+    "matchtitle": "Standup Meeting Notes*",
+    "open": false,
+    "sites": "*mail.google.com*",
+    "sitesArray": [
+      "*mail.google.com*"
+    ]
+  },
+  {
+    "action": "gototab",
+    "blacklist": false,
+    "customName": "Jump to Google Meet",
+    "exported": false,
+    "key": "ctrl+m",
+    "matchurl": "https://meet.google.com/*",
+    "open": false,
+    "openurl": "https://meet.google.com/landing?authuser=1",
+    "sites": "*mail.google.com*",
+    "sitesArray": [
+      "*mail.google.com*"
+    ]
+  },
+  {
+    "action": "gototab",
+    "blacklist": false,
+    "customName": "chrome://extensions/",
+    "exported": false,
+    "key": "ctrl+e",
+    "matchurl": "chrome://extensions/",
+    "open": false,
+    "openurl": "chrome://extensions/",
+    "sites": "*mail.google.com*",
+    "sitesArray": [
+      "*mail.google.com*"
+    ]
+  }
+]

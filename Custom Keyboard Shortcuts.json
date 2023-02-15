@@ -12,7 +12,8 @@
     "sites": "*mail.google.com*",
     "sitesArray": [
       "*mail.google.com*"
-    ]
+    ],
+    "label": "Jira"
   },
   {
     "action": "gototab",
@@ -26,7 +27,8 @@
     "sites": "*mail.google.com*",
     "sitesArray": [
       "*mail.google.com*"
-    ]
+    ],
+    "label": "Calnedar"
   },
   {
     "action": "gototab",
@@ -40,9 +42,10 @@
     "sitesArray": [
       "*mail.google.com*"
     ],
-    "matchurl": "https://chat.openai.com/chat",
+    "matchurl": "https://chat.openai.com/chat*",
     "currentWindow": false,
-    "openurl": "https://chat.openai.com/chat"
+    "openurl": "https://chat.openai.com/chat",
+    "label": "ChatGPT"
   },
   {
     "action": "gototab",
@@ -56,7 +59,8 @@
     "sites": "*mail.google.com*",
     "sitesArray": [
       "*mail.google.com*"
-    ]
+    ],
+    "label": "Google Meeting"
   },
   {
     "action": "gototab",
@@ -70,6 +74,7 @@
     "sites": "*mail.google.com*",
     "sitesArray": [
       "*mail.google.com*"
-    ]
+    ],
+    "label": "Extension"
   }
 ]

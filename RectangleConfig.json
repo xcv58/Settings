@@ -16,6 +16,9 @@
     "altThirdCycle" : {
       "int" : 0
     },
+    "alwaysAccountForStage" : {
+      "int" : 0
+    },
     "applyGapsToMaximize" : {
       "int" : 0
     },
@@ -46,8 +49,26 @@
     "disabledApps" : {
       "string" : "[]"
     },
+    "doubleClickTitleBar" : {
+      "int" : 0
+    },
+    "doubleClickTitleBarIgnoredApps" : {
+
+    },
+    "doubleClickTitleBarRestore" : {
+      "int" : 0
+    },
+    "dragFromStage" : {
+      "int" : 0
+    },
+    "enhancedUI" : {
+      "int" : 1
+    },
     "footprintAlpha" : {
-      "float" : 0.30000001192092896
+      "float" : 0.3
+    },
+    "footprintAnimationDurationMultiplier" : {
+      "float" : 0
     },
     "footprintBorderWidth" : {
       "float" : 2
@@ -67,6 +88,9 @@
     "hideMenubarIcon" : {
       "bool" : false
     },
+    "ignoreDragSnapToo" : {
+      "int" : 0
+    },
     "ignoredSnapAreas" : {
       "int" : 0
     },
@@ -81,6 +105,15 @@
     },
     "minimumWindowWidth" : {
       "float" : 0
+    },
+    "missionControlDragging" : {
+      "int" : 0
+    },
+    "missionControlDraggingAllowedOffscreenDistance" : {
+      "float" : 25
+    },
+    "missionControlDraggingDisallowedDuration" : {
+      "int" : 250
     },
     "moveCursor" : {
       "int" : 0
@@ -160,6 +193,12 @@
     "SUEnableAutomaticChecks" : {
       "bool" : false
     },
+    "systemWideMouseDown" : {
+      "int" : 0
+    },
+    "systemWideMouseDownApps" : {
+
+    },
     "todo" : {
       "int" : 2
     },
@@ -168,6 +207,9 @@
     },
     "todoMode" : {
       "bool" : false
+    },
+    "todoSidebarSide" : {
+      "int" : 1
     },
     "todoSidebarWidth" : {
       "float" : 400
@@ -186,6 +228,14 @@
     "bottomHalf" : {
       "keyCode" : 38,
       "modifierFlags" : 1441792
+    },
+    "bottomLeft" : {
+      "keyCode" : 38,
+      "modifierFlags" : 786432
+    },
+    "bottomRight" : {
+      "keyCode" : 40,
+      "modifierFlags" : 786432
     },
     "center" : {
       "keyCode" : 8,
@@ -227,6 +277,10 @@
       "keyCode" : 3,
       "modifierFlags" : 1441792
     },
+    "maximizeHeight" : {
+      "keyCode" : 126,
+      "modifierFlags" : 917504
+    },
     "nextDisplay" : {
       "keyCode" : 45,
       "modifierFlags" : 1441792
@@ -234,6 +288,10 @@
     "previousDisplay" : {
       "keyCode" : 35,
       "modifierFlags" : 1441792
+    },
+    "reflowTodo" : {
+      "keyCode" : 45,
+      "modifierFlags" : 786432
     },
     "restore" : {
       "keyCode" : 6,
@@ -246,6 +304,10 @@
     "smaller" : {
       "keyCode" : 0,
       "modifierFlags" : 1441792
+    },
+    "toggleTodo" : {
+      "keyCode" : 11,
+      "modifierFlags" : 786432
     },
     "topHalf" : {
       "keyCode" : 40,
@@ -260,5 +322,5 @@
       "modifierFlags" : 1441792
     }
   },
-  "version" : "64"
+  "version" : "82"
 }
